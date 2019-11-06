@@ -1,2 +1,18 @@
-# zombie_infection
-This addon lets your become a zombie if hit by a Normal Zombie.   once your hit there's no hope once you die you will become a zombie and your will be able to infect Other Players    this Only works with Darkrp 2.5.6 or higher   Video showcase of script  If you are an developer and want to help me work on it Contact me here https://discord.gg/e9XwTMf  Stuff to add.   Cure   more zombies   add other gamemode support  i will try my best to work on this script 
+This addon lets your become a zombie if hit by a Normal Zombie.
+
+ once your hit there's no hope once you die you will become a zombie and your will be able to infect Other Players 
+
+ this Only works with Darkrp 2.5.6 or higher
+
+Future Feature's
+
+ Cure
+
+ more zombies
+
+ add other gamemode support
+
+i will try my best to work on this script
+
+Known Bugs.
+None So Far to report a bug email me at wyattbullock20@gmail.com
