@@ -2,7 +2,7 @@
 -----------------------------------------------------
 SWEP.PrintName		    = "Zombie Claws"
 
-SWEP.Author		    = "Nerdy"
+SWEP.Author		    = "Devil"
 
 SWEP.Contact                = ""
 
@@ -10,7 +10,7 @@ SWEP.Purpose                = "Kill all those tasty humans!"
 
 SWEP.Instructions           = "left-Click to attack.\nRight-Click to taunt."
 
-SWEP.Category               = "Zombie infection"
+SWEP.Category               = "Zombie Infection"
 
 
 
