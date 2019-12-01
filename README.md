@@ -18,5 +18,7 @@ Known Bugs.
 None TO Report a Bug Contact me on Discord Devil#3000
 
 Credits
+
 Devil
+
 NickServ 
